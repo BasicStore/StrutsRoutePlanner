@@ -1,9 +1,9 @@
-package com.routeplanner.serv;
+package com.oldshell.serv;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.Assert;
 
-import com.routeplanner.dao.UserDao;
+import com.oldshell.dao.UserDao;
  
 @Service("userService")
 public class UserService implements ServiceFacade {

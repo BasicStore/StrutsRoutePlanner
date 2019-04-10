@@ -1,4 +1,4 @@
-package com.routeplanner.ctrl;
+package com.oldshell.ctrl;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -7,9 +7,9 @@ import java.util.Map;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.oldshell.dm.Person;
 import com.opensymphony.xwork2.ActionContext;
 import com.opensymphony.xwork2.ActionSupport;
-import com.routeplanner.dm.Person;
 
 public class RegisterAction extends ActionSupport {
     

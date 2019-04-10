@@ -1,11 +1,11 @@
-package com.routeplanner.dao;
+package com.oldshell.dao;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
-import com.routeplanner.dm.User;
+import com.oldshell.dm.User;
 
 
 @Repository

@@ -1,7 +1,7 @@
-package com.routeplanner.dao;
+package com.oldshell.dao;
 import java.util.List;
 
-import com.routeplanner.dm.User;
+import com.oldshell.dm.User;
 
 public interface UserDao {
 

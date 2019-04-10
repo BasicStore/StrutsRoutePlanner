@@ -14,7 +14,7 @@ import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 import org.springframework.context.annotation.Bean;
 
-import com.routeplanner.serv.ServiceFacade;
+import com.oldshell.serv.ServiceFacade;
 
 @SpringBootApplication
 public class StrutsRoutePlannerApplication extends SpringBootServletInitializer implements ApplicationRunner {
