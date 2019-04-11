@@ -92,3 +92,14 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No q
 2019-04-11 09:13:19.404  INFO 5120 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
 2019-04-11 09:13:19.404  INFO 5120 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
 2019-04-11 09:13:19.406  INFO 5120 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-04-11 09:17:09.939  INFO 5524 --- [main] c.o.StrutsRoutePlannerApplicationTests   : Starting StrutsRoutePlannerApplicationTests on iraddev07.manirad.emea.ngc.com with PID 5524 (started by muser in /home/muser/XWorkspace1/StrutsRoutePlanner)
+2019-04-11 09:17:09.940  INFO 5524 --- [main] c.o.StrutsRoutePlannerApplicationTests   : No active profile set, falling back to default profiles: default
+2019-04-11 09:17:11.422  INFO 5524 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-11 09:17:11.948  INFO 5524 --- [main] c.o.StrutsRoutePlannerApplicationTests   : Started StrutsRoutePlannerApplicationTests in 2.618 seconds (JVM running for 3.174)
+2019-04-11 09:17:11.949  INFO 5524 --- [main] c.o.StrutsRoutePlannerApplication        : LOGGING %%%%%%%%%%%%%%%%
+2019-04-11 09:17:11.950  INFO 5524 --- [main] c.o.StrutsRoutePlannerApplication        : TEST CONFIG PROP VALUE HERE:  Some configuration set here
+2019-04-11 09:17:11.959  INFO 5524 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-04-11 09:17:12.108  INFO 5524 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-04-11 09:17:12.278  INFO 5524 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-11 09:17:12.279  INFO 5524 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-04-11 09:17:12.282  INFO 5524 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

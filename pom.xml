@@ -34,11 +34,12 @@
 		</dependency>
 
 		<!-- struts specific   start -->
+		<!-- https://mvnrepository.com/artifact/org.apache.struts/struts2-core -->
 		<dependency>
-            <groupId>org.apache.struts</groupId>
-            <artifactId>struts2-core</artifactId>
-            <version>2.5.13</version>
-        </dependency>
+		    <groupId>org.apache.struts</groupId>
+		    <artifactId>struts2-core</artifactId>
+		    <version>2.5.20</version>
+		</dependency>
         <dependency>
             <groupId>org.apache.struts</groupId>
             <artifactId>struts2-spring-plugin</artifactId>
